@@ -1,3 +1,4 @@
-telegram
-telegram-ext
+pandas
+pyTelegramBotAPI
+python-telegram-bot
 aiohttp
