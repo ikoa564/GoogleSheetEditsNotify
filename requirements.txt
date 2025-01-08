@@ -2,3 +2,4 @@ pandas
 pyTelegramBotAPI
 python-telegram-bot
 aiohttp
+asyncio
